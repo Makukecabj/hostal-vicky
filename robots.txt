@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hostal-vicky.vercel.app/sitemap.xml
